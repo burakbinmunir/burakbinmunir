@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Python Flask`, `GCP Cloud Run`, and `GCP Cloud Functions`
-- 🌱 I’m currently learning `Machine Learning`, `Neural Networks`
+- 🌱 I’m currently learning `Machine Learning`, `Neural Networks`, `Deep Learning`
 - 🤔 I’m looking for help with `DevOps`, `Cloud Computing`, and `AI`
 - 💬 Ask me about `MERN Stack`
 - ⚡ Fun fact: `Confusion is part of Programming`
