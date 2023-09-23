@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **burakbinmunir@gmail.com**
+- 📫 How to reach me **burakbinmunir@gmail.com** , **https://www.linkedin.com/in/shehryar-munir-burakbinmunir/**
 
 - ⚡ Fun fact **Confusion is part of Programming**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
