@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Bin Munir always exploring something new to code in 😁</h1>
-<h3 align="center">A passionate software developer from Pakistan</h3>
+<h3 align="center">A passionate software developer from FAST-NUCES Lahore />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakbinmunir&label=Profile%20views&color=0e75b6&style=flat" alt="burakbinmunir" /> </p>
 
