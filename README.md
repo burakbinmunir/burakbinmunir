@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakbinmunir" alt="burakbinmunir" /></a> </p>
 
-- 🔭 I’m currently working on **Python Flask, GCP Cloud Run, and GCP Cloud Functions**
+- 🔭 I’m currently working on **Neural Networks**
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks, Deep Learning**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **burakbinmunir@gmail.com** , **https://www.linkedin.com/in/shehryar-munir-burakbinmunir/**
+- 📫 How to reach me **burakbinmunir@gmail.com** , **https://www.linkedin.com/in/shehryar-munir-burakbinmunir**
 
 - ⚡ Fun fact **Confusion is part of Programming**
 
