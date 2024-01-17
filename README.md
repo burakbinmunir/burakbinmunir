@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Burak Bin Munir always exploring something new to code in 😁</h1>
+<h1 align="center">Hi 👋, I'm Shehryar Munir always exploring something new to code in 😁</h1>
 <h3 align="center">A passionate Software Developer from FAST-NUCES Lahore </h3>
 
 - 🔭 I’m currently working on **Neural Networks**
 
-- 🌱 I’m currently learning **Machine Learning, Neural Networks, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and DevOps**
 
-- 🤝 I’m looking for help with **DevOps, Cloud Computing, and AI**
+- 🤝 I’m looking for help with **DevOps, Cloud Computing, and Machine Learning**
 
 - 💬 Ask me about **MERN Stack**
 
