@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehryar Munir always exploring something new to code</h1>
-<h3 align="center">A passionate Software Developer from FAST-NUCES Lahore </h3>
+<h3 align="center">A passionate Software Developer working at Dubizzle Labs </h3>
 
 - 🔭 I’m currently working on **Cross Platform Mobile Application Development**
 
