@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **DevOps**, **Cloud Computing** ☁️ , and **Machine Learning** 🤖
 
-- 💬 Ask me about **React Native** <img src="https://miro.medium.com/v2/resize:fit:1024/0*74NwxNdMYcbJ6RPL.png" alt="React Native" width="20" height="20" />
+- 💬 Ask me about **React Native** <img src="https://miro.medium.com/v2/resize:fit:1024/0*74NwxNdMYcbJ6RPL.png" alt="React Native" width="30" height="20" />
 
-- 📫 How to reach me: **burakbinmunir@gmail.com** , **[LinkedIn](https://www.linkedin.com/in/shehryar-munir-burakbinmunir)**
+- 📫 How to reach me: **[MAIL]burakbinmunir@gmail.com** , **[LinkedIn](https://www.linkedin.com/in/shehryar-munir-burakbinmunir)**
 
 - ⚡ Fun fact: **Confusion is part of Programming**
 
