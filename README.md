@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shehryar Munir always exploring something new to code</h1>
-<h3 align="center">A passionate Software Developer working at Dubizzle Labs </h3>
+<h1 align="center">Hi 👋, I'm Shehryar Munir, always exploring new coding challenges.</h1>
+<h3 align="center">I’m a passionate Software Engineer at <a href="https://www.dubizzle.com" target="_blank"><img src="https://example.com/dubizzle-logo.png" alt="Dubizzle Group" width="30" height="30" /></a>, currently diving into Cross-Platform Mobile Application Development.</h3>
 
-- 🔭 I’m currently working on **Cross Platform Mobile Application Development**
+- 🔭 I’m currently working on **Cross Platform Mobile Application Development** <img src="https://example.com/react-native-logo.png" alt="React Native" width="30" height="30" />
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and DevOps**
+- 🌱 I’m currently learning **Machine Learning** <img src="https://example.com/ml-logo.png" alt="Machine Learning" width="30" height="30" />, **Deep Learning** <img src="https://example.com/dl-logo.png" alt="Deep Learning" width="30" height="30" />, and **DevOps** <img src="https://example.com/devops-logo.png" alt="DevOps" width="30" height="30" />
 
-- 🤝 I’m looking for help with **DevOps, Cloud Computing, and Machine Learning**
+- 🤝 I’m looking for help with **DevOps**, **Cloud Computing** <img src="https://example.com/cloud-logo.png" alt="Cloud Computing" width="30" height="30" />, and **Machine Learning**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native** <img src="https://example.com/react-native-logo.png" alt="React Native" width="30" height="30" />
 
-- 📫 How to reach me **burakbinmunir@gmail.com** , **https://www.linkedin.com/in/shehryar-munir-burakbinmunir**
+- 📫 How to reach me: **burakbinmunir@gmail.com** , **[LinkedIn](https://www.linkedin.com/in/shehryar-munir-burakbinmunir)**
 
-- ⚡ Fun fact **Confusion is part of Programming**
-
+- ⚡ Fun fact: **Confusion is part of Programming**
 
 <p align="left">
 </p>
