@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehryar Munir, always exploring new coding challenges.</h1>
-<h3 align="center">I’m a passionate Software Engineer at <a href="https://www.dubizzle.com" target="_blank"><img src="https://example.com/dubizzle-logo.png" alt="Dubizzle Group" width="30" height="30" /></a>, currently diving into Cross-Platform Mobile Application Development.</h3>
+<h3 align="center">I’m a passionate Software Engineer at <a href="https://www.dubizzlegroup.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_SJxcxF4VunwM1l99Uz9NtPH7GLsy1pnGFaVINOHkDQ5081uCoDRVWZdw2NqIk3PPd0&usqp=CAU" alt="Dubizzle Group" width="30" height="30" /></a>, currently diving into Cross-Platform Mobile Application Development.</h3>
 
 - 🔭 I’m currently working on **Cross Platform Mobile Application Development** <img src="https://example.com/react-native-logo.png" alt="React Native" width="30" height="30" />
 
