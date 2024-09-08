@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehryar Munir, always exploring new coding challenges.</h1>
 <h3 align="center">I’m a passionate Software Engineer at Dubizzle Group <a href="https://www.dubizzlegroup.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_SJxcxF4VunwM1l99Uz9NtPH7GLsy1pnGFaVINOHkDQ5081uCoDRVWZdw2NqIk3PPd0&usqp=CAU" alt="Dubizzle Group" width="20" height="20" style="border-radius:10px"/></a>, currently diving into Cross-Platform Mobile Application Development.</h3>
 
-- 🔭 I’m currently working on **Cross Platform Mobile Application Development** <img src="https://example.com/react-native-logo.png" alt="React Native" width="30" height="30" />
+- 🔭 I’m currently working on **Cross Platform Mobile Application Development** 
 
-- 🌱 I’m currently learning **Machine Learning** <img src="https://example.com/ml-logo.png" alt="Machine Learning" width="30" height="30" />, **Deep Learning** <img src="https://example.com/dl-logo.png" alt="Deep Learning" width="30" height="30" />, and **DevOps** <img src="https://example.com/devops-logo.png" alt="DevOps" width="30" height="30" />
+- 🌱 I’m currently learning **Machine Learning** 🤖, **Deep Learning** 🧠, and **DevOps**  ♾️
 
-- 🤝 I’m looking for help with **DevOps**, **Cloud Computing** <img src="https://example.com/cloud-logo.png" alt="Cloud Computing" width="30" height="30" />, and **Machine Learning**
+- 🤝 I’m looking for help with **DevOps**, **Cloud Computing** ☁️ , and **Machine Learning** 🤖
 
-- 💬 Ask me about **React Native** <img src="https://example.com/react-native-logo.png" alt="React Native" width="30" height="30" />
+- 💬 Ask me about **React Native** <img src="[https://example.com/react-native-logo.png](https://miro.medium.com/v2/resize:fit:1024/0*74NwxNdMYcbJ6RPL.png)" alt="React Native" width="20" height="20" />
 
 - 📫 How to reach me: **burakbinmunir@gmail.com** , **[LinkedIn](https://www.linkedin.com/in/shehryar-munir-burakbinmunir)**
 
