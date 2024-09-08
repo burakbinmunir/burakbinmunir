@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehryar Munir always exploring something new to code in 😁</h1>
 <h3 align="center">A passionate Software Developer from FAST-NUCES Lahore </h3>
 
-- 🔭 I’m currently working on **Neural Networks**
+- 🔭 I’m currently working on **Cross Platform Mobile Application Development**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and DevOps**
 
