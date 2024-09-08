@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps, Cloud Computing, and Machine Learning**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **burakbinmunir@gmail.com** , **https://www.linkedin.com/in/shehryar-munir-burakbinmunir**
 
